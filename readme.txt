@@ -4,4 +4,4 @@ nihao woshi guojingbu
 djfijdijgjdjjg
 giueiuriererei
 my boss is sb
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
